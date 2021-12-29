@@ -1,0 +1,11 @@
+.outline:hover {
+    outline: solid red 2px;
+}
+
+.outline .outline:hover {
+    outline: solid goldenrod 2px;
+}
+
+.outline .outline .outline:hover {
+    outline: solid blue 2px;
+}
